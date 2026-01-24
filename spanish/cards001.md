@@ -15,3 +15,8 @@ A collection of flashcards for learning.
 ---
 -->
 
+
+## tener
+
+иметь
+
