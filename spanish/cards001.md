@@ -20,3 +20,8 @@ A collection of flashcards for learning.
 
 иметь
 
+
+## cocinar
+
+готовить
+
