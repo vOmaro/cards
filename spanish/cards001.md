@@ -114,3 +114,8 @@ A collection of flashcards for learning.
 
 по крайней мере
 
+
+## como mínimo
+
+как минимум
+
