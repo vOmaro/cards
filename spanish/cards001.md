@@ -40,3 +40,8 @@ A collection of flashcards for learning.
 
 дорога
 
+
+## peatones
+
+пешеходы
+
