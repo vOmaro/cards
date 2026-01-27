@@ -85,3 +85,8 @@ A collection of flashcards for learning.
 
 скорость
 
+
+## mayor
+
+больший
+
