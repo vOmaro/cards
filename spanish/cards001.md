@@ -129,3 +129,8 @@ A collection of flashcards for learning.
 
 пересекать
 
+
+## fuera de poblado
+
+за пределами населенного пункта
+
