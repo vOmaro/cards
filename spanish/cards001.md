@@ -105,3 +105,8 @@ A collection of flashcards for learning.
 
 толкать
 
+
+## siempre
+
+Всегда
+
