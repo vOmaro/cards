@@ -117,3 +117,10 @@ A collection of flashcards for learning.
 
 круговое движение
 
+
+## al menos
+
+по крайней мере
+
+как минимум
+
