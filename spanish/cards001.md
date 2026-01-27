@@ -80,3 +80,8 @@ A collection of flashcards for learning.
 
 считают
 
+
+## deber
+
+обязанность
+
