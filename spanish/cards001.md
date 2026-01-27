@@ -60,3 +60,8 @@ A collection of flashcards for learning.
 
 велосипедисты
 
+
+## jinetes
+
+всадники
+
