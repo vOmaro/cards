@@ -80,36 +80,29 @@ A collection of flashcards for learning.
 
 считают
 
-
 ## deber
 
 обязанность
-
 
 ## puede
 
 может
 
-
 ## acera
 
 тротуар
-
 
 ## lado
 
 сторона
 
-
 ## empujar
 
 толкать
 
-
 ## siempre
 
 Всегда
-
 
 ## glorieta
 
@@ -117,10 +110,7 @@ A collection of flashcards for learning.
 
 круговое движение
 
-
 ## al menos
 
 по крайней мере
-
-как минимум
 
