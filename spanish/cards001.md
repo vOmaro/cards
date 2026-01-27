@@ -119,3 +119,8 @@ A collection of flashcards for learning.
 
 как минимум
 
+
+## paso
+
+пешеход
+
