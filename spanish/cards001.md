@@ -55,3 +55,8 @@ A collection of flashcards for learning.
 
 пассажиры
 
+
+## ciclistas
+
+велосипедисты
+
