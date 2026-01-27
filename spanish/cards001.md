@@ -30,3 +30,8 @@ A collection of flashcards for learning.
 
 участники движения
 
+
+## seguridad
+
+безопастность
+
