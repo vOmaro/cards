@@ -90,3 +90,8 @@ A collection of flashcards for learning.
 
 может
 
+
+## acera
+
+тротуар
+
