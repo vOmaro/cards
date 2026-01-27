@@ -100,3 +100,8 @@ A collection of flashcards for learning.
 
 сторона
 
+
+## empujar
+
+толкать
+
