@@ -110,3 +110,10 @@ A collection of flashcards for learning.
 
 Всегда
 
+
+## glorieta
+
+площадь
+
+круговое движение
+
