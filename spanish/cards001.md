@@ -80,3 +80,8 @@ A collection of flashcards for learning.
 
 пастухи
 
+
+## velocidad
+
+скорость
+
