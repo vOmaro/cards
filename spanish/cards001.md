@@ -95,3 +95,10 @@ A collection of flashcards for learning.
 
 половина
 
+
+## al paso
+
+шагом
+
+со скоростью шага
+
