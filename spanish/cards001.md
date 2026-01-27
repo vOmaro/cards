@@ -25,3 +25,8 @@ A collection of flashcards for learning.
 
 готовить
 
+
+## usarios
+
+участники движения
+
