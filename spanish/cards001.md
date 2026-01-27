@@ -102,3 +102,8 @@ A collection of flashcards for learning.
 
 со скоростью шага
 
+
+## se considera
+
+это считается, считают
+
