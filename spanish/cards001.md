@@ -75,3 +75,8 @@ A collection of flashcards for learning.
 
 равные права
 
+
+## pastores
+
+пастухи
+
