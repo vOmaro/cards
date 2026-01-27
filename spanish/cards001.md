@@ -85,3 +85,8 @@ A collection of flashcards for learning.
 
 обязанность
 
+
+## puede
+
+может
+
