@@ -70,3 +70,8 @@ A collection of flashcards for learning.
 
 мотоциклисты
 
+
+## derechos iguales
+
+равные права
+
