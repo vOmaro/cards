@@ -134,3 +134,8 @@ A collection of flashcards for learning.
 
 за пределами населенного пункта
 
+
+## sentido único
+
+одностороннее движение
+
