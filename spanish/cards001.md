@@ -124,3 +124,8 @@ A collection of flashcards for learning.
 
 пешеход
 
+
+## cruzar
+
+пересекать
+
