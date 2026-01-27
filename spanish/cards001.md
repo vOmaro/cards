@@ -65,3 +65,8 @@ A collection of flashcards for learning.
 
 всадники
 
+
+## motocicletas
+
+мотоциклисты
+
