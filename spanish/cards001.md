@@ -144,3 +144,10 @@ A collection of flashcards for learning.
 
 велосипедная дорожка
 
+
+## refugio
+
+островок безопастности
+
+убежище
+
