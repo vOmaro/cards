@@ -277,3 +277,8 @@ A collection of flashcards for learning.
 
 вытянутые
 
+
+## doblados
+
+согнутый
+
