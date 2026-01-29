@@ -156,3 +156,8 @@ A collection of flashcards for learning.
 
 имеют
 
+
+## ceder el paso
+
+уступить дорогу
+
