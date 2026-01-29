@@ -255,3 +255,8 @@ A collection of flashcards for learning.
 
 иметь в виду
 
+
+## piernas
+
+ноги
+
