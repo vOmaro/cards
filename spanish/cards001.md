@@ -161,3 +161,10 @@ A collection of flashcards for learning.
 
 уступить дорогу
 
+
+## turismo
+
+легковой авто
+
+туризм
+
