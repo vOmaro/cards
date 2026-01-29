@@ -228,3 +228,8 @@ A collection of flashcards for learning.
 
 опережать
 
+
+## lateral
+
+боковой
+
