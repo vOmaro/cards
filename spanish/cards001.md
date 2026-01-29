@@ -233,3 +233,8 @@ A collection of flashcards for learning.
 
 боковой
 
+
+## suficiente
+
+Достаточно
+
