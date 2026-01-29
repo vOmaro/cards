@@ -114,36 +114,29 @@ A collection of flashcards for learning.
 
 по крайней мере
 
-
 ## como mínimo
 
 как минимум
-
 
 ## paso
 
 пешеход
 
-
 ## cruzar
 
 пересекать
-
 
 ## fuera de poblado
 
 за пределами населенного пункта
 
-
 ## sentido único
 
 одностороннее движение
 
-
 ## carril bici
 
 велосипедная дорожка
-
 
 ## refugio
 
@@ -151,16 +144,13 @@ A collection of flashcards for learning.
 
 убежище
 
-
 ## tienen
 
 имеют
 
-
 ## ceder el paso
 
 уступить дорогу
-
 
 ## turismo
 
@@ -168,86 +158,69 @@ A collection of flashcards for learning.
 
 туризм
 
-
 ## vulnerables
 
 уязвимый
-
 
 ## jóvenes
 
 молодежь
 
-
 ## de dos ruedas
 
 двухколесный
-
 
 ## infracciones
 
 нарушения
 
-
 ## marcha atrás
 
 задний ход
-
 
 ## suelen
 
 обычно
 
-
 ## conocer
 
 знать
-
 
 ## colisiones
 
 столкновения
 
-
 ## atropellos
 
 наезды
-
 
 ## carrocería
 
 кузов
 
-
 ## cualquier
 
 любой
-
 
 ## adelantar
 
 опережать
 
-
 ## lateral
 
 боковой
-
 
 ## suficiente
 
 Достаточно
 
-
 ## cuando
 
 когда
 
-
 ## junto
 
 вместе
-
 
 ## tener en cuenta
 
@@ -255,11 +228,9 @@ A collection of flashcards for learning.
 
 иметь в виду
 
-
 ## piernas
 
 ноги
-
 
 ## recto
 
@@ -267,16 +238,13 @@ A collection of flashcards for learning.
 
 ровный
 
-
 ## brazos
 
 руки
 
-
 ## estirados
 
-вытянутые
-
+вытянутый
 
 ## doblados
 
