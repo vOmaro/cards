@@ -265,3 +265,8 @@ A collection of flashcards for learning.
 
 проверить
 
+
+## llano y recto
+
+ровный и прямой
+
