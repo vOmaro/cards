@@ -223,3 +223,8 @@ A collection of flashcards for learning.
 
 любой
 
+
+## adelantar
+
+опережать
+
