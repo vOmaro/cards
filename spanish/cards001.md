@@ -260,3 +260,8 @@ A collection of flashcards for learning.
 
 остановить
 
+
+## comprobar
+
+проверить
+
