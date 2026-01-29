@@ -218,3 +218,8 @@ A collection of flashcards for learning.
 
 кузов
 
+
+## cualquier
+
+любой
+
