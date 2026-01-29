@@ -203,3 +203,8 @@ A collection of flashcards for learning.
 
 знать
 
+
+## colisiones
+
+столкновения
+
