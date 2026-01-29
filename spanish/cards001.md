@@ -323,3 +323,8 @@ A collection of flashcards for learning.
 
 масло
 
+
+## cada
+
+каждый
+
