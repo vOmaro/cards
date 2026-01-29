@@ -293,3 +293,8 @@ A collection of flashcards for learning.
 
 отклонение
 
+
+## delantero
+
+передний
+
