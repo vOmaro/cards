@@ -248,3 +248,10 @@ A collection of flashcards for learning.
 
 вместе
 
+
+## tener en cuenta
+
+учитывать
+
+иметь в виду
+
