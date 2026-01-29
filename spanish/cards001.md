@@ -198,3 +198,8 @@ A collection of flashcards for learning.
 
 обычно
 
+
+## conocer
+
+знать
+
