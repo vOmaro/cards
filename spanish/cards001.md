@@ -280,3 +280,8 @@ A collection of flashcards for learning.
 
 вокруг
 
+
+## regulador
+
+регулирующий орган
+
