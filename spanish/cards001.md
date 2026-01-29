@@ -139,3 +139,8 @@ A collection of flashcards for learning.
 
 одностороннее движение
 
+
+## carril bici
+
+велосипедная дорожка
+
