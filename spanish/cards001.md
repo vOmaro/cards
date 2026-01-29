@@ -328,3 +328,10 @@ A collection of flashcards for learning.
 
 каждый
 
+
+## pisar a fondo
+
+наступать основательно
+
+нажимать в пол
+
