@@ -272,3 +272,8 @@ A collection of flashcards for learning.
 
 руки
 
+
+## estirados
+
+вытянутые
+
