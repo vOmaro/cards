@@ -303,3 +303,8 @@ A collection of flashcards for learning.
 
 хотя
 
+
+## desgaste
+
+износ
+
