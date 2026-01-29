@@ -168,3 +168,8 @@ A collection of flashcards for learning.
 
 туризм
 
+
+## vulnerables
+
+уязвимый
+
