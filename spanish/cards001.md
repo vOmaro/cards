@@ -288,3 +288,8 @@ A collection of flashcards for learning.
 
 фары
 
+
+## desvío
+
+отклонение
+
