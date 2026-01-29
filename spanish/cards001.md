@@ -260,3 +260,10 @@ A collection of flashcards for learning.
 
 ноги
 
+
+## recto
+
+прямой
+
+ровный
+
