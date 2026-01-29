@@ -250,48 +250,41 @@ A collection of flashcards for learning.
 
 согнутый
 
-
 ## colocar
 
 поместить
-
 
 ## detener
 
 остановить
 
-
 ## comprobar
 
 проверить
-
 
 ## llano y recto
 
 ровный и прямой
 
-
 ## parabrisas
 
 ветровое стекло
-
 
 ## alrededor
 
 вокруг
 
-
 ## regulador
 
 регулирующий орган
-
 
 ## profundidad
 
 глубина
 
-
 ## alumbrado
 
 уличное освещение
+
+фары
 
