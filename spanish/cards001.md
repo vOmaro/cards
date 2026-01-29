@@ -243,3 +243,8 @@ A collection of flashcards for learning.
 
 когда
 
+
+## junto
+
+вместе
+
