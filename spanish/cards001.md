@@ -290,3 +290,8 @@ A collection of flashcards for learning.
 
 глубина
 
+
+## alumbrado
+
+уличное освещение
+
