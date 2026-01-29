@@ -238,3 +238,8 @@ A collection of flashcards for learning.
 
 Достаточно
 
+
+## cuando
+
+когда
+
