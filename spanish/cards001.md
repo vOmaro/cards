@@ -173,3 +173,8 @@ A collection of flashcards for learning.
 
 уязвимый
 
+
+## jóvenes
+
+молодежь
+
