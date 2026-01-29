@@ -250,3 +250,8 @@ A collection of flashcards for learning.
 
 согнутый
 
+
+## colocar
+
+поместить
+
