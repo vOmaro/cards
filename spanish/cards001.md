@@ -298,3 +298,8 @@ A collection of flashcards for learning.
 
 передний
 
+
+## aunque
+
+хотя
+
