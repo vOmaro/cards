@@ -208,3 +208,8 @@ A collection of flashcards for learning.
 
 столкновения
 
+
+## atropellos
+
+наезды
+
