@@ -151,3 +151,8 @@ A collection of flashcards for learning.
 
 убежище
 
+
+## tienen
+
+имеют
+
