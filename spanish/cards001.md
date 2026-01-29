@@ -270,3 +270,8 @@ A collection of flashcards for learning.
 
 ровный и прямой
 
+
+## parabrisas
+
+ветровое стекло
+
