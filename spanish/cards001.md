@@ -275,3 +275,8 @@ A collection of flashcards for learning.
 
 ветровое стекло
 
+
+## alrededor
+
+вокруг
+
