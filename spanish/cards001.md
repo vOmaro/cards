@@ -193,3 +193,8 @@ A collection of flashcards for learning.
 
 задний ход
 
+
+## suelen
+
+обычно
+
