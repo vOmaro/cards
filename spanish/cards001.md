@@ -267,3 +267,8 @@ A collection of flashcards for learning.
 
 ровный
 
+
+## brazos
+
+руки
+
