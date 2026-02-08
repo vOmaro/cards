@@ -423,3 +423,10 @@ A collection of flashcards for learning.
 
 превышать
 
+
+## ninguno
+
+никакой
+
+ни один
+
