@@ -472,3 +472,8 @@ A collection of flashcards for learning.
 
 низкий
 
+
+## alto
+
+высокий
+
