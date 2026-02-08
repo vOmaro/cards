@@ -482,3 +482,8 @@ A collection of flashcards for learning.
 
 рассвет
 
+
+## ser visto
+
+быть увиденным
+
