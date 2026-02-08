@@ -335,3 +335,10 @@ A collection of flashcards for learning.
 
 нажимать в пол
 
+
+## alcance
+
+дистанция
+
+досягаемость
+
