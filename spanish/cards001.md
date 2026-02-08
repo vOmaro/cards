@@ -342,3 +342,8 @@ A collection of flashcards for learning.
 
 досягаемость
 
+
+## girar
+
+поворачивать
+
