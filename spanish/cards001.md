@@ -477,3 +477,8 @@ A collection of flashcards for learning.
 
 высокий
 
+
+## madrugada
+
+рассвет
+
