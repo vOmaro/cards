@@ -401,3 +401,10 @@ A collection of flashcards for learning.
 
 делать / выполнять
 
+
+## pavimento
+
+асфальт
+
+дорожное покрытие
+
