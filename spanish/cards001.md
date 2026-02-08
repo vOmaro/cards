@@ -367,3 +367,8 @@ A collection of flashcards for learning.
 
 выключенный
 
+
+## ceder
+
+уступать (дорогу)
+
