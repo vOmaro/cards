@@ -352,3 +352,8 @@ A collection of flashcards for learning.
 
 дополнительный
 
+
+## niebla
+
+туман
+
