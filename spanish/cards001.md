@@ -430,3 +430,8 @@ A collection of flashcards for learning.
 
 ни один
 
+
+## superar
+
+превышать
+
