@@ -372,3 +372,10 @@ A collection of flashcards for learning.
 
 уступать (дорогу)
 
+
+## cumplir
+
+соблюдать
+
+правила, требования
+
