@@ -357,3 +357,8 @@ A collection of flashcards for learning.
 
 туман
 
+
+## peligro
+
+опасность
+
