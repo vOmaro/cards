@@ -462,3 +462,8 @@ A collection of flashcards for learning.
 
 сомнение
 
+
+## sustituirse
+
+заменить
+
