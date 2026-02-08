@@ -389,3 +389,8 @@ A collection of flashcards for learning.
 
 срочный, экстренный
 
+
+## podrá
+
+сможет / разрешается (допускается)
+
