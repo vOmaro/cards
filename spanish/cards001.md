@@ -497,3 +497,8 @@ A collection of flashcards for learning.
 
 вспышка
 
+
+## hay que
+
+надо, нужно, следует
+
