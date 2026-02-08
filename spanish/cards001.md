@@ -408,3 +408,8 @@ A collection of flashcards for learning.
 
 дорожное покрытие
 
+
+## pueden aumentar
+
+могут увеличиваться
+
