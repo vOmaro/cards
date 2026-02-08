@@ -492,3 +492,8 @@ A collection of flashcards for learning.
 
 дальше
 
+
+## rafagas
+
+вспышка
+
