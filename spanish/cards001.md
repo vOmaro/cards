@@ -445,3 +445,10 @@ A collection of flashcards for learning.
 
 пересекать
 
+
+## inferior
+
+меньше
+
+нижний
+
