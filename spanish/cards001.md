@@ -502,3 +502,8 @@ A collection of flashcards for learning.
 
 надо, нужно, следует
 
+
+## incendio
+
+пожар
+
