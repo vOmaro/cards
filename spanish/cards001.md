@@ -413,3 +413,8 @@ A collection of flashcards for learning.
 
 могут увеличиваться
 
+
+## menor
+
+меньше
+
