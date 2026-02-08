@@ -347,3 +347,8 @@ A collection of flashcards for learning.
 
 поворачивать
 
+
+## complementario
+
+дополнительный
+
