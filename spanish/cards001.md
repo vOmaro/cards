@@ -362,3 +362,8 @@ A collection of flashcards for learning.
 
 опасность
 
+
+## apagado
+
+выключенный
+
