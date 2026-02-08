@@ -384,3 +384,8 @@ A collection of flashcards for learning.
 
 впереди
 
+
+## urgente
+
+срочный, экстренный
+
