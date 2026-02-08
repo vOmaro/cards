@@ -457,3 +457,8 @@ A collection of flashcards for learning.
 
 острота зрения
 
+
+## duda
+
+сомнение
+
