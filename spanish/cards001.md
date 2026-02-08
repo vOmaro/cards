@@ -452,3 +452,8 @@ A collection of flashcards for learning.
 
 нижний
 
+
+## agudeza visual
+
+острота зрения
+
