@@ -467,3 +467,8 @@ A collection of flashcards for learning.
 
 заменить
 
+
+## bajo
+
+низкий
+
