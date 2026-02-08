@@ -418,3 +418,8 @@ A collection of flashcards for learning.
 
 меньше
 
+
+## rebasar
+
+превышать
+
