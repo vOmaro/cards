@@ -379,3 +379,8 @@ A collection of flashcards for learning.
 
 правила, требования
 
+
+## delante
+
+впереди
+
