@@ -536,3 +536,8 @@ A collection of flashcards for learning.
 
 спуск
 
+
+## suba
+
+повышение
+
