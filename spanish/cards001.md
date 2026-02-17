@@ -606,7 +606,7 @@ A collection of flashcards for learning.
 ускорение, въезд
 
 
-## esperar
+## conos
 
-ожидать
+конус
 
