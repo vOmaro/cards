@@ -759,3 +759,8 @@ A collection of flashcards for learning.
 
 менять
 
+
+## cerrada
+
+крутой
+
