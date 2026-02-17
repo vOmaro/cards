@@ -595,3 +595,8 @@ A collection of flashcards for learning.
 
 развернуться
 
+
+## deceleration, salida
+
+замедление, съезд
+
