@@ -615,3 +615,8 @@ A collection of flashcards for learning.
 
 для ремонта
 
+
+## lento
+
+медленный
+
