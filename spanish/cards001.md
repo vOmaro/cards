@@ -819,3 +819,8 @@ A collection of flashcards for learning.
 
 предупредить
 
+
+## agudeza visuat
+
+острота зрения
+
