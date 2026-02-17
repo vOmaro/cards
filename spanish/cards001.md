@@ -677,3 +677,8 @@ A collection of flashcards for learning.
 
 полугодовой
 
+
+## comprador
+
+покупатель
+
