@@ -667,3 +667,8 @@ A collection of flashcards for learning.
 
 узнавать
 
+
+## cubrir
+
+покрывать
+
