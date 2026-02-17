@@ -630,3 +630,8 @@ A collection of flashcards for learning.
 
 уступить им дорогу
 
+
+## en acto
+
+во время
+
