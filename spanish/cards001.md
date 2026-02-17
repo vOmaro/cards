@@ -600,3 +600,8 @@ A collection of flashcards for learning.
 
 замедление, съезд
 
+
+## aceleration, entrada
+
+ускорение, въезд
+
