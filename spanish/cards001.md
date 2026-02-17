@@ -605,3 +605,8 @@ A collection of flashcards for learning.
 
 ускорение, въезд
 
+
+## esperar
+
+ожидать
+
