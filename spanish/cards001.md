@@ -524,3 +524,8 @@ A collection of flashcards for learning.
 
 одновременно
 
+
+## que baja
+
+который опускается
+
