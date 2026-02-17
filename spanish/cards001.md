@@ -640,3 +640,8 @@ A collection of flashcards for learning.
 
 возобновить
 
+
+## tanto .. como
+
+как .. так и
+
