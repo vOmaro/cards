@@ -682,3 +682,8 @@ A collection of flashcards for learning.
 
 покупатель
 
+
+## vendedor
+
+продавец
+
