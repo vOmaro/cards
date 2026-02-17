@@ -610,3 +610,8 @@ A collection of flashcards for learning.
 
 конус
 
+
+## por obras
+
+для ремонта
+
