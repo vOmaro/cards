@@ -646,7 +646,7 @@ A collection of flashcards for learning.
 как .. так и
 
 
-## previsible
+## obstaculizar
 
-предвидеть
+препятствовать
 
