@@ -740,3 +740,10 @@ A collection of flashcards for learning.
 
 противотуманные фары
 
+
+## basta
+
+достаточно
+
+довольно
+
