@@ -566,3 +566,8 @@ A collection of flashcards for learning.
 
 длина
 
+
+## anchura
+
+ширина
+
