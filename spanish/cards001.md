@@ -529,3 +529,10 @@ A collection of flashcards for learning.
 
 который опускается
 
+
+## baja
+
+снижение
+
+спуск
+
