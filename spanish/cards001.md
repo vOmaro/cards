@@ -578,3 +578,10 @@ A collection of flashcards for learning.
 
 составной
 
+
+## pavimentada
+
+вымощенная
+
+асфальтная
+
