@@ -571,3 +571,10 @@ A collection of flashcards for learning.
 
 ширина
 
+
+## conjunto
+
+набор
+
+составной
+
