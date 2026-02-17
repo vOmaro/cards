@@ -635,3 +635,8 @@ A collection of flashcards for learning.
 
 во время
 
+
+## reanudar
+
+возобновить
+
