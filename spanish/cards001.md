@@ -784,3 +784,8 @@ A collection of flashcards for learning.
 
 выключить
 
+
+## sufrir
+
+страдать
+
