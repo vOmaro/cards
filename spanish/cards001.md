@@ -551,3 +551,8 @@ A collection of flashcards for learning.
 
 добираются
 
+
+## subida
+
+подъем
+
