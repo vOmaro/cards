@@ -655,3 +655,8 @@ A collection of flashcards for learning.
 
 двухгодичный
 
+
+## los daños
+
+ущерб
+
