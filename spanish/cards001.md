@@ -809,3 +809,8 @@ A collection of flashcards for learning.
 
 неблагоприятный
 
+
+## adverses
+
+отвратительные
+
