@@ -706,3 +706,10 @@ A collection of flashcards for learning.
 
 подземный тоннель
 
+
+## delantera
+
+передняя часть
+
+передок
+
