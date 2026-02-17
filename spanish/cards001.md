@@ -650,3 +650,8 @@ A collection of flashcards for learning.
 
 препятствовать
 
+
+## bienal
+
+двухгодичный
+
