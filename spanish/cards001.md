@@ -805,7 +805,7 @@ A collection of flashcards for learning.
 номерной знак
 
 
-## favorables
+## disfavorable
 
-благоприятные
+неблагоприятный
 
