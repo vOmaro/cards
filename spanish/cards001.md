@@ -779,3 +779,8 @@ A collection of flashcards for learning.
 
 сомнения
 
+
+## apagar
+
+выключить
+
