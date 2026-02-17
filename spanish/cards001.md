@@ -625,3 +625,8 @@ A collection of flashcards for learning.
 
 текучесть
 
+
+## ceder les el paso
+
+уступить им дорогу
+
