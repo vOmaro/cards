@@ -752,3 +752,10 @@ A collection of flashcards for learning.
 
 сильный снегопад
 
+
+## cambiar
+
+заменить
+
+менять
+
