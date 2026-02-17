@@ -804,3 +804,8 @@ A collection of flashcards for learning.
 
 номерной знак
 
+
+## favorables
+
+благоприятные
+
