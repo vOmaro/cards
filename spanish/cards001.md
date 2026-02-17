@@ -824,3 +824,8 @@ A collection of flashcards for learning.
 
 острота зрения
 
+
+## ante la duda
+
+если сомневаешься
+
