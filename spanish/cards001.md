@@ -556,3 +556,8 @@ A collection of flashcards for learning.
 
 подъем
 
+
+## bajada
+
+спуск
+
