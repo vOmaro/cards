@@ -591,7 +591,7 @@ A collection of flashcards for learning.
 кому
 
 
-## cambiar de dirección
+## cambiar de sentido
 
-изменить направление
+развернуться
 
