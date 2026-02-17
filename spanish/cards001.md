@@ -718,3 +718,10 @@ A collection of flashcards for learning.
 
 фары ближнего света
 
+
+## hay
+
+имеется
+
+есть
+
