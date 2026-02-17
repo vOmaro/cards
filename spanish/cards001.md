@@ -590,3 +590,8 @@ A collection of flashcards for learning.
 
 кому
 
+
+## cambiar de dirección
+
+изменить направление
+
