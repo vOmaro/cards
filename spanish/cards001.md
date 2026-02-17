@@ -794,3 +794,8 @@ A collection of flashcards for learning.
 
 отражают
 
+
+## luz
+
+свет
+
