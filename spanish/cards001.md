@@ -747,3 +747,8 @@ A collection of flashcards for learning.
 
 довольно
 
+
+## fuerte nevada
+
+сильный снегопад
+
