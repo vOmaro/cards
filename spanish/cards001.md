@@ -585,3 +585,8 @@ A collection of flashcards for learning.
 
 асфальтная
 
+
+## a quien
+
+кому
+
