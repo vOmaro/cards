@@ -660,3 +660,10 @@ A collection of flashcards for learning.
 
 ущерб
 
+
+## saber
+
+знать
+
+узнавать
+
