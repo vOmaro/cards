@@ -512,3 +512,10 @@ A collection of flashcards for learning.
 
 усталость
 
+
+## del mismo tipo
+
+однотипный
+
+однинакового типа
+
