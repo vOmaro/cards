@@ -546,3 +546,8 @@ A collection of flashcards for learning.
 
 ровный
 
+
+## llegan
+
+добираются
+
