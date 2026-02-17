@@ -561,3 +561,8 @@ A collection of flashcards for learning.
 
 спуск
 
+
+## longitud
+
+длина
+
