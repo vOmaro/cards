@@ -519,3 +519,8 @@ A collection of flashcards for learning.
 
 однинакового типа
 
+
+## a la vez
+
+одновременно
+
