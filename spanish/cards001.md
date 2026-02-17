@@ -713,3 +713,8 @@ A collection of flashcards for learning.
 
 передок
 
+
+## luces cortas
+
+фары ближнего света
+
