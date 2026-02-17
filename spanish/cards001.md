@@ -814,3 +814,8 @@ A collection of flashcards for learning.
 
 отвратительные
 
+
+## avisar
+
+предупредить
+
