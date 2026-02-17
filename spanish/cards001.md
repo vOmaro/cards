@@ -692,3 +692,10 @@ A collection of flashcards for learning.
 
 дальний свет
 
+
+## corto alcance
+
+ближний свет
+
+малой дальности
+
