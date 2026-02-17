@@ -829,3 +829,8 @@ A collection of flashcards for learning.
 
 если сомневаешься
 
+
+## sustituir
+
+заменить
+
