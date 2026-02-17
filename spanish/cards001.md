@@ -699,3 +699,10 @@ A collection of flashcards for learning.
 
 малой дальности
 
+
+## paso interior
+
+внутренний проход
+
+подземный тоннель
+
