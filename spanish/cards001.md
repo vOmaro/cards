@@ -507,3 +507,8 @@ A collection of flashcards for learning.
 
 пожар
 
+
+## fatiga
+
+усталость
+
