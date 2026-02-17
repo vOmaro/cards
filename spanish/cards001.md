@@ -789,3 +789,8 @@ A collection of flashcards for learning.
 
 страдать
 
+
+## reflejan
+
+отражают
+
