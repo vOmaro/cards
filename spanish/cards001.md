@@ -541,3 +541,8 @@ A collection of flashcards for learning.
 
 повышение
 
+
+## llano
+
+ровный
+
