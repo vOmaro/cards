@@ -687,3 +687,8 @@ A collection of flashcards for learning.
 
 продавец
 
+
+## largo alcance
+
+дальний свет
+
