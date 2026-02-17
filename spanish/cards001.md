@@ -620,3 +620,8 @@ A collection of flashcards for learning.
 
 медленный
 
+
+## fluidez
+
+текучесть
+
