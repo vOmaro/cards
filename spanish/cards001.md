@@ -931,3 +931,10 @@ A collection of flashcards for learning.
 
 насыщенная
 
+
+## cerrar
+
+закрыть
+
+перекрывать
+
