@@ -924,3 +924,10 @@ A collection of flashcards for learning.
 
 прерывистый
 
+
+## saturada
+
+перегруженная
+
+насыщенная
+
