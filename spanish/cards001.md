@@ -974,3 +974,8 @@ A collection of flashcards for learning.
 
 все
 
+
+## hombre
+
+мужик
+
