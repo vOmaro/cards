@@ -892,9 +892,9 @@ A collection of flashcards for learning.
 исключая
 
 
-## aumentar
+## de frente
 
-увеличить
+спереди
 
-наращивать
+прямо
 
