@@ -955,3 +955,10 @@ A collection of flashcards for learning.
 
 пересекать
 
+
+## sobrepasar
+
+пересекать
+
+обгонять
+
