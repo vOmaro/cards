@@ -853,3 +853,8 @@ A collection of flashcards for learning.
 
 повиноваться
 
+
+## poblado
+
+населенный пункт
+
