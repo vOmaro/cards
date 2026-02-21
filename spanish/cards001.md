@@ -910,3 +910,10 @@ A collection of flashcards for learning.
 
 крест
 
+
+## transversal
+
+поперечный
+
+поперек
+
