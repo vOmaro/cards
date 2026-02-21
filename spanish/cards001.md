@@ -938,3 +938,10 @@ A collection of flashcards for learning.
 
 перекрывать
 
+
+## afectar
+
+влиять
+
+воздействовать
+
