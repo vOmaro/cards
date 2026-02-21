@@ -917,3 +917,10 @@ A collection of flashcards for learning.
 
 поперек
 
+
+## intermitente
+
+мигающий
+
+прерывистый
+
