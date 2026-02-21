@@ -877,3 +877,10 @@ A collection of flashcards for learning.
 
 различный
 
+
+## fijo
+
+неподвижный
+
+постоянный
+
