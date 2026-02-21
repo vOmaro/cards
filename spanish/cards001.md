@@ -945,3 +945,8 @@ A collection of flashcards for learning.
 
 воздействовать
 
+
+## adosada
+
+прилегающая
+
