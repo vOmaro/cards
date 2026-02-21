@@ -878,9 +878,16 @@ A collection of flashcards for learning.
 различный
 
 
-## bandera
+## fijo
 
-флаг
+неподвижный
 
-флажок
+постоянный
+
+
+## salvo
+
+кроме
+
+исключая
 
