@@ -858,3 +858,10 @@ A collection of flashcards for learning.
 
 населенный пункт
 
+
+## respecto
+
+в отношении
+
+относительно
+
