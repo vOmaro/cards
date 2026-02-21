@@ -899,7 +899,9 @@ A collection of flashcards for learning.
 прямо
 
 
-## baliza
+## través
 
-маячок
+сквозь
+
+через
 
