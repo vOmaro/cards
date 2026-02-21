@@ -950,3 +950,8 @@ A collection of flashcards for learning.
 
 прилегающая
 
+
+## franquear
+
+пересекать
+
