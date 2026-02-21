@@ -870,3 +870,10 @@ A collection of flashcards for learning.
 
 ожидать
 
+
+## distinto
+
+различный
+
+различный
+
