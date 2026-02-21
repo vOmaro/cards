@@ -846,3 +846,10 @@ A collection of flashcards for learning.
 
 требовать
 
+
+## obedecer
+
+подчиняться
+
+повиноваться
+
