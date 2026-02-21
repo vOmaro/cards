@@ -839,3 +839,10 @@ A collection of flashcards for learning.
 
 предупреждать
 
+
+## ordenar
+
+предписывать
+
+требовать
+
