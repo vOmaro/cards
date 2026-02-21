@@ -834,3 +834,8 @@ A collection of flashcards for learning.
 
 заменить
 
+
+## advertir
+
+предупреждать
+
