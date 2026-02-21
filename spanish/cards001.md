@@ -891,3 +891,10 @@ A collection of flashcards for learning.
 
 исключая
 
+
+## aumentar
+
+увеличить
+
+наращивать
+
