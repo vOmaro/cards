@@ -962,3 +962,10 @@ A collection of flashcards for learning.
 
 обгонять
 
+
+## trazos
+
+штрихи
+
+разметка
+
