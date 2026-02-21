@@ -865,3 +865,8 @@ A collection of flashcards for learning.
 
 относительно
 
+
+## esperar
+
+ожидать
+
