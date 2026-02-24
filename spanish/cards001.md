@@ -1099,3 +1099,8 @@ A collection of flashcards for learning.
 
 скользкая
 
+
+## perdida
+
+потеря
+
