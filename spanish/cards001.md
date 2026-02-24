@@ -1224,7 +1224,7 @@ A collection of flashcards for learning.
 расход
 
 
-## sangre
+## oido
 
-кровь
+ухо
 
