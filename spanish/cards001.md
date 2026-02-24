@@ -1173,3 +1173,8 @@ A collection of flashcards for learning.
 
 из
 
+
+## pueder
+
+можешь
+
