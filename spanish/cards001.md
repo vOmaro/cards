@@ -1114,3 +1114,8 @@ A collection of flashcards for learning.
 
 препятствие
 
+
+## rotonda
+
+круговое движение
+
