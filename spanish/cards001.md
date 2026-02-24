@@ -1104,3 +1104,8 @@ A collection of flashcards for learning.
 
 потеря
 
+
+## puente
+
+мост
+
