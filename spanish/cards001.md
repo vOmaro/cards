@@ -1161,3 +1161,10 @@ A collection of flashcards for learning.
 
 обочина
 
+
+## chocar
+
+врезаться
+
+столкновение
+
