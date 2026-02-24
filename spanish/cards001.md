@@ -1134,3 +1134,8 @@ A collection of flashcards for learning.
 
 следует
 
+
+## se recomienda
+
+рекомендуется
+
