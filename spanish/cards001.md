@@ -1109,3 +1109,8 @@ A collection of flashcards for learning.
 
 мост
 
+
+## obstaculo
+
+препятствие
+
