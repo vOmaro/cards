@@ -1168,3 +1168,8 @@ A collection of flashcards for learning.
 
 столкновение
 
+
+## desde
+
+из
+
