@@ -1014,3 +1014,8 @@ A collection of flashcards for learning.
 
 дождь
 
+
+## mojado
+
+мокро
+
