@@ -1054,3 +1054,8 @@ A collection of flashcards for learning.
 
 риск
 
+
+## precaucion
+
+осторожно
+
