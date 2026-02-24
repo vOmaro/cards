@@ -1029,3 +1029,8 @@ A collection of flashcards for learning.
 
 ближний свет
 
+
+## cinturon
+
+ремень безопасности
+
