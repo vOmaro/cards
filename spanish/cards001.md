@@ -1183,3 +1183,10 @@ A collection of flashcards for learning.
 
 уступающий
 
+
+## ligeramente
+
+немного
+
+слегка
+
