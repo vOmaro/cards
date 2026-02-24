@@ -1197,3 +1197,10 @@ A collection of flashcards for learning.
 
 подьехать
 
+
+## suavemente
+
+плавно
+
+нежно
+
