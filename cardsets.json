@@ -3,10 +3,10 @@
     "name": "spanish",
     "description": null,
     "created": "2026-01-24T17:50:54.321",
-    "lastModified": "2026-02-24T12:30:19.943",
+    "lastModified": "2026-02-24T12:30:36.390",
     "lastStudied": null,
     "version": "0.0.1",
-    "totalCards": 204,
+    "totalCards": 205,
     "settings": {
       "newCardsPerWeek": 70,
       "futureCardsPerCycle": 7,
