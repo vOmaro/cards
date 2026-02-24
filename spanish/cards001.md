@@ -1209,3 +1209,10 @@ A collection of flashcards for learning.
 
 как часто
 
+
+## poca
+
+мало
+
+слабый
+
