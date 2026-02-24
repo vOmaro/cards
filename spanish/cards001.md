@@ -1044,3 +1044,8 @@ A collection of flashcards for learning.
 
 полоса
 
+
+## senalizar
+
+сигнализировать
+
