@@ -1178,3 +1178,8 @@ A collection of flashcards for learning.
 
 можешь
 
+
+## cediendo
+
+уступающий
+
