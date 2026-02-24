@@ -1156,3 +1156,8 @@ A collection of flashcards for learning.
 
 резко
 
+
+## arcen
+
+обочина
+
