@@ -1024,3 +1024,8 @@ A collection of flashcards for learning.
 
 дальний свет
 
+
+## luces de cruce
+
+ближний свет
+
