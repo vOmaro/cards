@@ -1059,3 +1059,8 @@ A collection of flashcards for learning.
 
 осторожно
 
+
+## cruce
+
+перекресток
+
