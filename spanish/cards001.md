@@ -1190,3 +1190,10 @@ A collection of flashcards for learning.
 
 слегка
 
+
+## acercarse
+
+приблизиться
+
+подьехать
+
