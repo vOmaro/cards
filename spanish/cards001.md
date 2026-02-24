@@ -1216,3 +1216,10 @@ A collection of flashcards for learning.
 
 слабый
 
+
+## consumo
+
+потребление
+
+расход
+
