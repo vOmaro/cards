@@ -1089,3 +1089,8 @@ A collection of flashcards for learning.
 
 держать
 
+
+## hielo
+
+лёд
+
