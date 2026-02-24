@@ -1079,3 +1079,8 @@ A collection of flashcards for learning.
 
 предупреждение
 
+
+## retroceder
+
+сдавать назад
+
