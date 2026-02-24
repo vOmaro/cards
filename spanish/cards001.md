@@ -1124,3 +1124,8 @@ A collection of flashcards for learning.
 
 полностью
 
+
+## se puede
+
+разрешено
+
