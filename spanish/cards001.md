@@ -1139,3 +1139,8 @@ A collection of flashcards for learning.
 
 рекомендуется
 
+
+## frenar
+
+тормозить
+
