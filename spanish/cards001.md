@@ -1223,3 +1223,8 @@ A collection of flashcards for learning.
 
 расход
 
+
+## sangre
+
+кровь
+
