@@ -1249,3 +1249,10 @@ A collection of flashcards for learning.
 
 обязан
 
+
+## moderara
+
+уменьшить
+
+умерить
+
