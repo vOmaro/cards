@@ -989,3 +989,8 @@ A collection of flashcards for learning.
 
 за исключением
 
+
+## esta permitido
+
+разрешено
+
