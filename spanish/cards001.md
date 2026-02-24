@@ -1235,3 +1235,10 @@ A collection of flashcards for learning.
 
 путешествие
 
+
+## poder
+
+мочь
+
+быть в состоянии
+
