@@ -1084,3 +1084,8 @@ A collection of flashcards for learning.
 
 сдавать назад
 
+
+## mantener
+
+держать
+
