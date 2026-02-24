@@ -1074,3 +1074,8 @@ A collection of flashcards for learning.
 
 противоположное направление
 
+
+## advertencia
+
+предупреждение
+
