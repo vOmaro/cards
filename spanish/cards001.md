@@ -984,3 +984,8 @@ A collection of flashcards for learning.
 
 управление
 
+
+## salvo que
+
+за исключением
+
