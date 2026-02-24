@@ -1149,3 +1149,10 @@ A collection of flashcards for learning.
 
 соблюдать
 
+
+## bruscamente
+
+внезапно
+
+резко
+
