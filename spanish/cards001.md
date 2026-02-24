@@ -999,3 +999,8 @@ A collection of flashcards for learning.
 
 обязательно использовать
 
+
+## usted debe
+
+вы должны
+
