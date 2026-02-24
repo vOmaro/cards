@@ -1049,3 +1049,8 @@ A collection of flashcards for learning.
 
 сигнализировать
 
+
+## riesgo
+
+риск
+
