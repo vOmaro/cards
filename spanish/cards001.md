@@ -1019,3 +1019,8 @@ A collection of flashcards for learning.
 
 мокро
 
+
+## luces largas
+
+дальний свет
+
