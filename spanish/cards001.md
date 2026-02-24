@@ -1228,3 +1228,10 @@ A collection of flashcards for learning.
 
 ухо
 
+
+## viaje
+
+поездка
+
+путешествие
+
