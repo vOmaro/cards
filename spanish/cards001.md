@@ -1204,3 +1204,8 @@ A collection of flashcards for learning.
 
 нежно
 
+
+## cada cuanto
+
+как часто
+
