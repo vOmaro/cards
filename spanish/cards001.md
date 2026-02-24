@@ -1144,3 +1144,8 @@ A collection of flashcards for learning.
 
 тормозить
 
+
+## respetar
+
+соблюдать
+
