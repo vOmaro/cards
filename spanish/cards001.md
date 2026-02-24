@@ -1242,3 +1242,10 @@ A collection of flashcards for learning.
 
 быть в состоянии
 
+
+## debera
+
+быть обязанным
+
+обязан
+
