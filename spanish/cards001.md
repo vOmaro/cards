@@ -1094,3 +1094,8 @@ A collection of flashcards for learning.
 
 лёд
 
+
+## resbaladiza
+
+скользкая
+
