@@ -1069,3 +1069,8 @@ A collection of flashcards for learning.
 
 узкая дорога
 
+
+## sentido contrario
+
+противоположное направление
+
