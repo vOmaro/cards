@@ -1034,3 +1034,8 @@ A collection of flashcards for learning.
 
 ремень безопасности
 
+
+## adelantamiento
+
+обгон
+
