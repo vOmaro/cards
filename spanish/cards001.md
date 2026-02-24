@@ -1119,3 +1119,8 @@ A collection of flashcards for learning.
 
 круговое движение
 
+
+## completamente
+
+полностью
+
