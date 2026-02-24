@@ -1009,3 +1009,8 @@ A collection of flashcards for learning.
 
 торможение
 
+
+## lluvia
+
+дождь
+
