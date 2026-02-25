@@ -1256,3 +1256,10 @@ A collection of flashcards for learning.
 
 умерить
 
+
+## como
+
+будучи
+
+в качестве, как
+
