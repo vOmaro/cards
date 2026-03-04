@@ -1273,3 +1273,8 @@ A collection of flashcards for learning.
 
 отдыхать
 
+
+## evitar
+
+избегать
+
