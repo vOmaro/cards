@@ -1278,3 +1278,8 @@ A collection of flashcards for learning.
 
 избегать
 
+
+## combatir
+
+бороться
+
