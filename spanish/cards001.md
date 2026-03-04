@@ -1293,3 +1293,8 @@ A collection of flashcards for learning.
 
 количество
 
+
+## tomar
+
+принимать
+
