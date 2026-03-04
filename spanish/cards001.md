@@ -1263,3 +1263,8 @@ A collection of flashcards for learning.
 
 в качестве, как
 
+
+## parar
+
+остановить
+
