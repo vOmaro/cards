@@ -1298,3 +1298,8 @@ A collection of flashcards for learning.
 
 принимать
 
+
+## comportamiento
+
+прведение
+
