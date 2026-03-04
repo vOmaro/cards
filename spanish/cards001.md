@@ -1283,3 +1283,8 @@ A collection of flashcards for learning.
 
 бороться
 
+
+## dormir
+
+спать
+
