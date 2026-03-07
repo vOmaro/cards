@@ -1332,3 +1332,8 @@ A collection of flashcards for learning.
 
 маршировать
 
+
+## obstaculice
+
+препятствовать
+
