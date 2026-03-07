@@ -1308,3 +1308,10 @@ A collection of flashcards for learning.
 
 пить
 
+
+## alejarse
+
+отойти
+
+отдалиться
+
