@@ -1325,3 +1325,10 @@ A collection of flashcards for learning.
 
 за пределами
 
+
+## marchar
+
+двигаться
+
+маршировать
+
