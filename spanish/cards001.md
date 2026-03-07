@@ -1351,3 +1351,10 @@ A collection of flashcards for learning.
 
 вторжение
 
+
+## si fuera preciso
+
+при необходимости
+
+если понадобится
+
