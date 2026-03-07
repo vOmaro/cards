@@ -1344,3 +1344,10 @@ A collection of flashcards for learning.
 
 быть размещенным
 
+
+## invadir
+
+вторгаться
+
+вторжение
+
