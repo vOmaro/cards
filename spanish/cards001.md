@@ -1337,3 +1337,10 @@ A collection of flashcards for learning.
 
 препятствовать
 
+
+## colocarse
+
+расположиться
+
+быть размещенным
+
