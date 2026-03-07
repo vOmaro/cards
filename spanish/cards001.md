@@ -1315,3 +1315,8 @@ A collection of flashcards for learning.
 
 отдалиться
 
+
+## lentamente
+
+медленно
+
