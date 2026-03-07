@@ -1320,3 +1320,8 @@ A collection of flashcards for learning.
 
 медленно
 
+
+## fuera
+
+за пределами
+
