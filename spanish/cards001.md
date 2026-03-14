@@ -1439,3 +1439,8 @@ A collection of flashcards for learning.
 
 делает
 
+
+## extintor
+
+огнетушитель
+
