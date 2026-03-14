@@ -1395,3 +1395,8 @@ A collection of flashcards for learning.
 
 сухой
 
+
+## mojada
+
+мокрый
+
