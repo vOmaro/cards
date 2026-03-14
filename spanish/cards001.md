@@ -1375,3 +1375,8 @@ A collection of flashcards for learning.
 
 потери
 
+
+## aquella que
+
+тот, который
+
