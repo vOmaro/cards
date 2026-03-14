@@ -1363,3 +1363,8 @@ A collection of flashcards for learning.
 
 окружение
 
+
+## intentar
+
+пытаться
+
