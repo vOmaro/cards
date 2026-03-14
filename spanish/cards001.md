@@ -1385,3 +1385,8 @@ A collection of flashcards for learning.
 
 принимать внутрь
 
+
+## perciber
+
+воспринимать
+
