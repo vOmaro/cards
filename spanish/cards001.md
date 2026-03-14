@@ -1368,3 +1368,10 @@ A collection of flashcards for learning.
 
 пытаться
 
+
+## gastos
+
+расходы
+
+потери
+
