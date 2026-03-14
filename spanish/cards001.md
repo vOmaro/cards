@@ -1410,3 +1410,10 @@ A collection of flashcards for learning.
 
 смотреть
 
+
+## es aconsejable
+
+целесообразно
+
+рекомендуется
+
