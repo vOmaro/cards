@@ -1422,3 +1422,10 @@ A collection of flashcards for learning.
 
 пробка
 
+
+## procurar
+
+пытаться
+
+стараться
+
