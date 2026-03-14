@@ -1390,3 +1390,8 @@ A collection of flashcards for learning.
 
 воспринимать
 
+
+## seca
+
+сухой
+
