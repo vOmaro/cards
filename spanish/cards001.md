@@ -1358,3 +1358,8 @@ A collection of flashcards for learning.
 
 если понадобится
 
+
+## entorno
+
+окружение
+
