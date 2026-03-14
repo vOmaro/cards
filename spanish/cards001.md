@@ -1417,3 +1417,8 @@ A collection of flashcards for learning.
 
 рекомендуется
 
+
+## atasco
+
+пробка
+
