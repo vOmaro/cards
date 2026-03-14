@@ -1434,3 +1434,8 @@ A collection of flashcards for learning.
 
 топливо
 
+
+## hace que
+
+делает
+
