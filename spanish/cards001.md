@@ -1449,3 +1449,10 @@ A collection of flashcards for learning.
 
 заботиться
 
+
+## circulen
+
+передвигаться
+
+циркулировать
+
