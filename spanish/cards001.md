@@ -1400,3 +1400,8 @@ A collection of flashcards for learning.
 
 мокрый
 
+
+## hacia atrás
+
+назад
+
