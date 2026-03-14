@@ -1380,3 +1380,8 @@ A collection of flashcards for learning.
 
 тот, который
 
+
+## ingerir
+
+принимать внутрь
+
