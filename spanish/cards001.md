@@ -1486,3 +1486,10 @@ A collection of flashcards for learning.
 
 желательно
 
+
+## comprar
+
+покупать
+
+купить
+
