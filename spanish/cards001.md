@@ -1481,3 +1481,8 @@ A collection of flashcards for learning.
 
 грязь
 
+
+## es conveniente
+
+желательно
+
