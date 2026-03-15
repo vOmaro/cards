@@ -1471,3 +1471,8 @@ A collection of flashcards for learning.
 
 голова
 
+
+## cuello
+
+шея
+
