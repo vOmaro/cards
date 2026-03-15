@@ -1456,3 +1456,8 @@ A collection of flashcards for learning.
 
 циркулировать
 
+
+## consume
+
+потребляет
+
