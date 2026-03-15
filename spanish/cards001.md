@@ -1466,3 +1466,8 @@ A collection of flashcards for learning.
 
 давление
 
+
+## cabeza
+
+голова
+
