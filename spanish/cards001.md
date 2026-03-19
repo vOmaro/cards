@@ -1493,3 +1493,10 @@ A collection of flashcards for learning.
 
 купить
 
+
+## arrojar
+
+бросать
+
+выбрасывать
+
