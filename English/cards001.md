@@ -30,3 +30,8 @@ A collection of flashcards for learning.
 
 маяк
 
+
+## cones
+
+конусы
+
