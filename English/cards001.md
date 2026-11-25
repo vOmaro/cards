@@ -25,3 +25,8 @@ A collection of flashcards for learning.
 
 присутствие
 
+
+## beacon
+
+маяк
+
