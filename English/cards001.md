@@ -35,3 +35,8 @@ A collection of flashcards for learning.
 
 конусы
 
+
+## obey
+
+подчиняться
+
