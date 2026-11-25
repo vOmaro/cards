@@ -40,3 +40,8 @@ A collection of flashcards for learning.
 
 подчиняться
 
+
+## right-of-way
+
+преимущественное право проезда
+
