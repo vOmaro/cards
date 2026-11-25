@@ -45,3 +45,8 @@ A collection of flashcards for learning.
 
 преимущественное право проезда
 
+
+## exempt
+
+освобождать
+
