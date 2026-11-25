@@ -60,3 +60,10 @@ A collection of flashcards for learning.
 
 пункт взимания платы
 
+
+## illuminated
+
+освещенный
+
+светящийся
+
