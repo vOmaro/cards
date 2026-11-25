@@ -77,3 +77,10 @@ A collection of flashcards for learning.
 
 насыщенный
 
+
+## steady
+
+постоянный
+
+устойчивый
+
