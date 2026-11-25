@@ -72,3 +72,8 @@ A collection of flashcards for learning.
 
 силуэт
 
+
+## saturated
+
+насыщенный
+
