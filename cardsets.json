@@ -17,21 +17,6 @@
     ]
   },
   {
-    "name": "Enlish",
-    "description": null,
-    "created": "2026-11-24T17:48:38.889",
-    "lastModified": "2026-11-24T17:48:38.889",
-    "lastStudied": null,
-    "version": "0.0.1",
-    "totalCards": 0,
-    "settings": {
-      "newCardsPerWeek": 21,
-      "futureCardsPerCycle": 7,
-      "maxFibIndex": 14
-    },
-    "flagged": []
-  },
-  {
     "name": "English",
     "description": null,
     "created": "2026-11-24T17:49:09.425",
