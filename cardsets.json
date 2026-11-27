@@ -35,10 +35,10 @@
     "name": "English",
     "description": null,
     "created": "2026-11-24T17:49:09.425",
-    "lastModified": "2026-11-27T17:46:10.238",
+    "lastModified": "2026-11-27T17:46:38.703",
     "lastStudied": null,
     "version": "0.0.1",
-    "totalCards": 17,
+    "totalCards": 18,
     "settings": {
       "newCardsPerWeek": 21,
       "futureCardsPerCycle": 7,
