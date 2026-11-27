@@ -123,3 +123,8 @@ A collection of flashcards for learning.
 
 дорожное покрытие
 
+
+## reduced visibility
+
+ограниченная видимость
+
