@@ -89,3 +89,10 @@ A collection of flashcards for learning.
 
 обочина
 
+
+## encounter
+
+сталкиваться
+
+встречать
+
