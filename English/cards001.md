@@ -118,3 +118,8 @@ A collection of flashcards for learning.
 
 препятствие
 
+
+## pavement
+
+дорожное покрытие
+
