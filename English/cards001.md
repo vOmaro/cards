@@ -101,3 +101,10 @@ A collection of flashcards for learning.
 
 препятствие
 
+
+## landslide
+
+оползень
+
+обвал
+
