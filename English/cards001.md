@@ -108,3 +108,8 @@ A collection of flashcards for learning.
 
 обвал
 
+
+## frequent
+
+частый
+
